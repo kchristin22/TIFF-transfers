@@ -4,9 +4,11 @@ This is a Google sheets add-on meant for internal use by the Thessaloniki Intern
 
 It executes two functions:
 * Fill pickup times from the sheet "list" to "Sheet1" based on the guests' id
-* Groups passengers for drivers, including pickup information and destination 
+* Groups passengers for drivers, including pickup information and destination
 
-Demo:
+#### Website: https://sites.google.com/view/tiff-transfers
+
+### Demo:
 
 
 
